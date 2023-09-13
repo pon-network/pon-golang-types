@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/attestantio/go-eth2-client/spec/phase0"
-	bundleTypes "github.com/bsn-eng/pon-golang-types/bundles"
-	commonTypes "github.com/bsn-eng/pon-golang-types/common"
-	rpbsTypes "github.com/bsn-eng/pon-golang-types/rpbs"
+	bundleTypes "github.com/pon-pbs/pon-golang-types/bundles"
+	commonTypes "github.com/pon-pbs/pon-golang-types/common"
+	rpbsTypes "github.com/pon-pbs/pon-golang-types/rpbs"
 	gethCommon "github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/core/types"
