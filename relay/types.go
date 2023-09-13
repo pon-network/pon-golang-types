@@ -5,7 +5,7 @@ import (
 	"sync"
 	"math/big"
 
-	commonTypes "github.com/bsn-eng/pon-golang-types/common"
+	commonTypes "github.com/pon-pbs/pon-golang-types/common"
 
 	"github.com/attestantio/go-eth2-client/spec/phase0"
 	"github.com/ethereum/go-ethereum/common/hexutil"
