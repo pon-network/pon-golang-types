@@ -10,7 +10,7 @@ Begin by cloning this repository to your local machine:
 
 ```bash
 cd <project-directory>
-git clone https://github.com/bsn-eng/pon-golang-types.git
+git clone https://github.com/pon-pbs/pon-golang-types.git
 ```
 
 ### Install as library
@@ -19,14 +19,14 @@ To install the library run:
 
 ```bash
 cd <project-directory>
-go get github.com/bsn-eng/pon-golang-types
+go get github.com/pon-pbs/pon-golang-types
 ```
 
 ## Usage
 
 To use simply import and start using. Example:
 ```
-import beaconTypes "github.com/bsn-eng/pon-golang-types/beaconclient"
+import beaconTypes "github.com/pon-pbs/pon-golang-types/beaconclient"
 .
 .
 .
