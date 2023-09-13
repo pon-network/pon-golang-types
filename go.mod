@@ -1,4 +1,4 @@
-module github.com/bsn-eng/pon-golang-types
+module github.com/pon-pbs/pon-golang-types
 
 go 1.20
 
