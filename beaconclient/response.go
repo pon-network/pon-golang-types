@@ -1,7 +1,7 @@
 package beaconclient
 
 import (
-	"github.com/bsn-eng/pon-golang-types/common"
+	"github.com/pon-pbs/pon-golang-types/common"
 )
 
 type GetGenesisResponse struct {
